@@ -1,67 +1,54 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-desktop-dark.svg">
-  <img src="assets/hero-desktop-light.svg" alt="DarkTower — Interfaces with intent. Systems with backbone." width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark-v2.svg">
+  <source media="(max-width: 600px)" srcset="assets/hero-mobile-light-v2.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-desktop-dark-v2.svg">
+  <img src="assets/hero-desktop-light-v2.svg" alt="DarkTower — I build for the web. And keep it running." width="1200">
 </picture>
 
-# Hey, I'm Cristian Arrieta.
+# Hey, I'm Cristian.
 
-**Senior Frontend Developer · Platform Engineer · Bogotá, Colombia**
+I'm a frontend developer and platform engineer in **Bogotá, Colombia**. I've spent **8+ years building web apps**, mostly with React, Next.js, and TypeScript.
 
-I bring **8+ years of web development experience** and ownership across the product stack: React interfaces, backend-for-frontend services, and AWS infrastructure. I care about how applications perform, how reliably they run, and how effectively teams can build on them.
+My work often goes beyond the UI: writing the service behind a feature, sorting out a deployment, or figuring out why an app is slow. I like being able to follow a problem through and fix it.
 
-[**Let's talk ↗**](mailto:darktowerdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cristian-andres-arrieta-gutierrez-74a496b5) · [CV](https://portfolio.darktower.dev/cv.pdf)
+[Email me](mailto:darktowerdev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/cristian-andres-arrieta-gutierrez-74a496b5) · [CV](https://portfolio.darktower.dev/cv.pdf)
 
-## From interface to infrastructure
+## Where I can help
 
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark.svg">
-  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-desktop-dark.svg">
-  <img src="assets/stack-desktop-light.svg" alt="Areas I work across: React and Next.js interfaces, Node.js and GraphQL services, AWS and SST infrastructure." width="1200">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/stack-mobile-dark-v2.svg">
+  <source media="(max-width: 600px)" srcset="assets/stack-mobile-light-v2.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-desktop-dark-v2.svg">
+  <img src="assets/stack-desktop-light-v2.svg" alt="Areas I work across: React and Next.js interfaces, Node.js and GraphQL services, AWS and SST infrastructure." width="1200">
 </picture>
 
-## What I bring to a team
+**Building the frontend.** React, Next.js, and TypeScript are my main tools. I've built product features, worked on performance, and developed for mobile with React Native—including custom MFA authentication.
 
-### Frontend engineering
+**Looking after the platform.** At Zoe Financial, I own AWS infrastructure, use SST to manage it as code, and build services with Next.js and Node.js to support the frontend.
 
-Build product features with **React, Next.js, and TypeScript**, with a focus on performance and maintainability. My experience also spans **React Native**, including custom MFA authentication for mobile.
+**Making development easier.** I've worked on React upgrades, Turborepo migrations, CI/CD pipelines, and moving applications from EC2 to Vercel. I care about making the next change easier for the team.
 
-### Platform ownership
+**Helping teammates get settled.** I mentor frontend developers and help them get comfortable with the codebase while we build features together.
 
-Own **AWS infrastructure**, provision resources through **SST infrastructure as code**, and build custom **Next.js and Node.js backend-for-frontend services**. I work across application and infrastructure boundaries to improve platform reliability.
+## These days
 
-### Developer experience
-
-Help teams work more effectively through **React upgrades, Turborepo monorepos, CI/CD pipelines, and dependency maintenance**. At Zoe Financial, my work included modernizing infrastructure from **EC2 to Vercel**.
-
-### Mentoring & collaboration
-
-Mentor frontend developers, help them integrate into the codebase, and plan and deliver core platform features with the team. I combine hands-on implementation with ownership of the systems around it.
-
-## Experience in practice
-
-At **Zoe Financial**, I grew from **Frontend Developer** to **Senior Frontend Developer / Platform Engineer**, expanding my scope from product features to infrastructure, reliability, and developer tooling.
-
-**Frontend Developer** · February 2021–October 2024  
-**Senior Frontend Developer / Platform Engineer** · October 2024–present
+I'm a **Senior Frontend Developer / Platform Engineer at Zoe Financial**. I joined as a frontend developer in February 2021 and moved into my current role in October 2024.
 
 <details>
-<summary><strong>My working toolkit</strong></summary>
+<summary>A few more tools I work with</summary>
 
-- **Interfaces:** React · Next.js · TypeScript · JavaScript · React Native · Tailwind CSS
-- **Services:** Node.js · GraphQL · REST APIs
+- **Frontend:** React Native · Tailwind CSS · JavaScript
+- **APIs:** Node.js · GraphQL · REST
 - **Data:** PostgreSQL · DynamoDB · MySQL
-- **Infrastructure & delivery:** AWS · SST · Vercel · Turborepo · CI/CD
+- **Delivery:** AWS · SST · Vercel · Turborepo · CI/CD
 
 </details>
 
-## Always exploring
+## A little outside work
 
-My GitHub workshop includes [JavaScript games](https://github.com/Darktowers/bubbleshooter) and [Elixir experiments](https://github.com/Darktowers/elixirProyect).
+You'll also find [JavaScript games](https://github.com/Darktowers/bubbleshooter) and [Elixir experiments](https://github.com/Darktowers/elixirProyect) here.
 
 ---
 
-**Building a product or strengthening your engineering team? [Let's talk ↗](mailto:darktowerdev@gmail.com)**  
-Spanish / English · Bogotá, Colombia · [Portfolio](https://portfolio.darktower.dev)
+Have a project in mind? [Send me a message.](mailto:darktowerdev@gmail.com)  
+Spanish / English · [Portfolio](https://portfolio.darktower.dev)
